@@ -1,0 +1,878 @@
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\ApplicationInsights.config
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.exe
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.exe.config
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.rsp
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csi.exe
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csi.rsp
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.AppContext.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.exe
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.exe.config
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.rsp
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\static\Scripts\Customers\Index.js
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll.config
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.pdb
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Antlr3.Runtime.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\log4net.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Web.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Bson.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Newtonsoft.Json.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Owin.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Swashbuckle.Core.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Helpers.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Mvc.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Optimization.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Razor.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\WebGrease.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\log4net.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Bson.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Newtonsoft.Json.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Helpers.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Mvc.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Optimization.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Razor.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Antlr3.Runtime.pdb
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Web.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.pdb
+D:\Web api\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\ApplicationInsights.config
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.exe
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.exe.config
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.rsp
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csi.exe
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csi.rsp
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.exe
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.rsp
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\static\Scripts\Customers\Index.js
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll.config
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.pdb
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\log4net.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Bson.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Owin.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Swashbuckle.Core.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Razor.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\WebGrease.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\log4net.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Bson.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Razor.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.pdb
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\ApplicationInsights.config
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.exe
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.exe.config
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.rsp
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csi.exe
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csi.rsp
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.exe
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.rsp
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\static\Scripts\Customers\Index.js
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll.config
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.pdb
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\log4net.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Bson.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Owin.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Swashbuckle.Core.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Razor.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\WebGrease.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\log4net.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Bson.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Razor.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.pdb
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\ApplicationInsights.config
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.exe
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.exe.config
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.rsp
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csi.exe
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csi.rsp
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.exe
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.rsp
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\static\Scripts\Customers\Index.js
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll.config
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.pdb
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\log4net.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Bson.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Owin.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Swashbuckle.Core.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Razor.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\WebGrease.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\log4net.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Bson.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Razor.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.dll
+C:\Users\ulyana.kozub\Desktop\5 курс\Моє\Музичук\WebApiProject\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.pdb
+E:\SevenWonders\SevenWonders.WebAPI\bin\ApplicationInsights.config
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.exe
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.exe.config
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.rsp
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csi.exe
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csi.rsp
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.AppContext.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.exe
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.exe.config
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.rsp
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe
+E:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\SevenWonders\SevenWonders.WebAPI\bin\static\Scripts\Customers\Index.js
+E:\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll.config
+E:\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.pdb
+E:\SevenWonders\SevenWonders.WebAPI\bin\Antlr3.Runtime.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\log4net.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Web.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Bson.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\Newtonsoft.Json.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\Owin.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\Swashbuckle.Core.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Helpers.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Mvc.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Optimization.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Razor.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\WebGrease.dll
+E:\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\log4net.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Bson.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\Newtonsoft.Json.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Helpers.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Mvc.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Optimization.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Razor.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\Antlr3.Runtime.pdb
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Web.xml
+E:\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.dll
+E:\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.pdb
+E:\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.csprojResolveAssemblyReference.cache
+E:\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.csproj.CoreCompileInputs.cache
+G:\SevenWonders\SevenWonders.WebAPI\bin\ApplicationInsights.config
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.exe
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.exe.config
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.rsp
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csi.exe
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csi.rsp
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.AppContext.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.exe
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.exe.config
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.rsp
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe
+G:\SevenWonders\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\SevenWonders\SevenWonders.WebAPI\bin\static\Scripts\Customers\Index.js
+G:\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll.config
+G:\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.pdb
+G:\SevenWonders\SevenWonders.WebAPI\bin\Antlr3.Runtime.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\log4net.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Web.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Bson.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\Newtonsoft.Json.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\Owin.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\Swashbuckle.Core.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Helpers.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Mvc.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Optimization.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Razor.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\WebGrease.dll
+G:\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\log4net.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Bson.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\Newtonsoft.Json.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Helpers.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Mvc.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Optimization.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Razor.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\Antlr3.Runtime.pdb
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+G:\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Web.xml
+G:\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.csprojResolveAssemblyReference.cache
+G:\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.csproj.CoreCompileInputs.cache
+G:\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.dll
+G:\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.pdb
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\ApplicationInsights.config
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.exe
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.exe.config
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.rsp
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csi.exe
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csi.rsp
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.AppContext.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.exe
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.exe.config
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.rsp
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\static\Scripts\Customers\Index.js
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll.config
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.pdb
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Antlr3.Runtime.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\log4net.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Web.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Bson.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Newtonsoft.Json.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Owin.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Swashbuckle.Core.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Helpers.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Mvc.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Optimization.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Razor.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\WebGrease.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\log4net.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Bson.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Newtonsoft.Json.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Helpers.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Mvc.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Optimization.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Razor.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Antlr3.Runtime.pdb
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Web.xml
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.csprojResolveAssemblyReference.cache
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.dll
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.pdb
+E:\1\Інше2\SevenWonders\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\ApplicationInsights.config
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.exe
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.exe.config
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csc.rsp
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csi.exe
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\csi.rsp
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.exe
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\vbc.rsp
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\static\Scripts\Customers\Index.js
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll.config
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.pdb
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\log4net.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Bson.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Owin.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Swashbuckle.Core.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Razor.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\WebGrease.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\log4net.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Bson.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.Razor.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\SevenWonders\SevenWonders\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.pdb
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\ApplicationInsights.config
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\csc.exe
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\csc.exe.config
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\csc.rsp
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\csi.exe
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\csi.rsp
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\vbc.exe
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\vbc.rsp
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\static\Scripts\Customers\Index.js
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll.config
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\SevenWonders.WebAPI.pdb
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\EntityFramework.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\log4net.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\MongoDB.Bson.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\MongoDB.Driver.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Owin.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Swashbuckle.Core.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.Http.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.Razor.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\WebGrease.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\EntityFramework.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\log4net.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\MongoDB.Bson.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\MongoDB.Driver.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\MongoDB.Driver.Core.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.Http.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.Razor.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.dll
+C:\Users\ulyana.kozub\Desktop\!!!\Програма\git\SeveWondersNew\SevenWonders.WebAPI\obj\Debug\SevenWonders.WebAPI.pdb

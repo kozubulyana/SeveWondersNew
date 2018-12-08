@@ -1,0 +1,246 @@
+﻿<link type="text/css" rel="stylesheet" href="../../static/Content/Hotels/Index.css" />
+<link type="text/css" rel="stylesheet" href="../../static/Content/select2.css" />
+
+<div class="col-xs-12 col-sm-10 col-md-10 col-lg-10 col-sm-offset-1 col-md-offset-1 col-lg-offset-1">
+    <h3 class="text-center">Hotels</h3>
+    <br />
+
+    <div class="row" id="hotelModifyViewModel">
+        <!-- Add-Edit hotel modal-->
+        <div class="modal fade" id="editHotelModal" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center">Hotel</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-horizontal" align="center">
+                            <hidden data-bind="value: Id"></hidden>
+                            <div class="form-group">
+                                <label class="control-label col-md-4">Name:</label>
+                                <div class="col-md-6">
+                                    <input type="text" class="form-control" data-bind="value: Name" placeholder="Enter name">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label col-md-4">Stars:</label>
+                                <div class="col-md-6">
+                                    <select class="form-control" data-bind="options: Stars, optionsText: 'Name', optionsValue: 'Id', value: selectedChoiceStars, optionsCaption: 'Choose stars'"></select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label col-md-4">City:</label>
+                                <div class="col-md-6">
+                                    <select class="form-control" data-bind="options: Cities, optionsText: 'Name', optionsValue: 'Id', value: selectedChoiceCity, optionsCaption: 'Choose city'"></select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label col-md-4">Address:</label>
+                                <div class="col-md-6">
+                                    <input type="text" class="form-control" data-bind="value: Address" placeholder="Enter address">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label col-md-4">Description:</label>
+                                <div class="col-md-6">
+                                    <textarea rows="3" class="form-control" data-bind="value: Description" placeholder="Enter description" style="resize:vertical; min-height:100px;"></textarea>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="control-label col-md-4">Food types:</label>
+                                <div class="col-md-6">
+                                    <select class="form-control" data-bind="options: FoodTypes, optionsText: 'Name', optionsValue: 'Id', value: selectedChoiceFoodType, optionsCaption: 'Choose food type'"></select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label col-md-4">Food price ($):</label>
+                                <div class="col-md-6">
+                                    <input type="number" step="0.01" min="0.01" max="1000" class="form-control" data-bind="value: FoodPrice" placeholder="Enter food price">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label col-md-4">Facilities:</label>
+                                <div class="col-md-6" id="facilities-container">
+                                    <select class="form-control" id="facilities" multiple></select>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <input type="file" class="multiple" id="loadImages" align="center" multiple accept="image/*" />
+                                <div class="col-md-offset-2 col-md-8" id="photos" data-bind="foreach: HotelPhotos">
+                                    <div style="width:170px; margin-top:1%; margin-right:1%;" class="pull-left img-wrap">
+                                        <span class="close" data-bind="click: $parent.removePhoto">&times;</span>
+                                        <img class="img-rounded img-responsive" data-bind="attr: {src:$data.PhotoLink}" style="height: 105px;">
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-warning middle-button" data-bind="click: saveChanges">Save</button>
+                        <button type="button" class="btn middle-button" data-dismiss="modal">Cancel</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row" id="hotelsTable">
+        <!-- Delete hotel modal -->
+        <div class="modal fade" id="deleteHotelModal" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center">Hotel</h4>
+                    </div>
+                    <div class="modal-body">
+                        <h5 class="text-center">Are you sure you want to delete this hotel?</h5>
+                    </div>
+                    <div class="modal-footer">
+                        <hidden data-bind="value: idOfDeletedHotel"></hidden>
+                        <button type="button" class="btn btn-warning middle-button" data-bind="click: deleteHotel">Delete</button>
+                        <button type="button" class="btn middle-button" data-dismiss="modal">Cancel</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <div class="row panel well" style="margin-right: 30px;">
+                <div class="form-horizontal" align="center">
+                    <div class="form-group">
+                        <label class="control-label col-md-4">Country:</label>
+                        <div class="col-md-6">
+                            <select class="form-control" data-bind="options: Countries, optionsText: 'Name', optionsValue: 'Id', value: selectedChoiceCountry, optionsCaption: 'Choose country'"></select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label col-md-4">City:</label>
+                        <div class="col-md-6">
+                            <select class="form-control" data-bind="options: Cities, optionsText: 'Name', optionsValue: 'Id', value: selectedChoiceCity, optionsCaption: 'Choose city'"></select>
+                        </div>
+                    </div>
+                    <br />
+                    <div class="form-group">
+                        <label class="control-label col-md-4">Food types:</label>
+                        <div class="col-md-6">
+                            <select class="form-control" data-bind="options: FoodTypes, optionsText: 'Name', optionsValue: 'Id', value: selectedChoiceFoodType, optionsCaption: 'Choose food type'"></select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label col-md-4">Stars:</label>
+                        <div class="col-md-6">
+                            <select class="form-control" data-bind="options: Stars, optionsText: 'Name', optionsValue: 'Id', value: selectedChoiceStars, optionsCaption: 'Choose stars'"></select>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-warning middle-button" data-bind="click: search">Search</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-8 col-lg-8">
+            <div class="row" style="margin-bottom:10px;">
+                <button class="btn btn-warning middle-button" type="button" data-bind="click: showModalAddHotel">Add hotel</button>
+            </div>
+            <div class="row" data-bind="foreach: hotels">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <div class="row">
+                            <div class="panelHeadingItem col-xs-8 col-sm-8 col-md-8">
+                                <span data-bind="text: Name"></span>
+                                <span>&nbsp;</span>
+                                <span data-bind="foreach: new Array(Rating)">
+                                    <span class="glyphicon glyphicon-star ratingStars"></span>
+                                </span>
+                            </div>
+                            <div class="panelHeadingItem pull-right" style="padding-right:15px;">
+                                <button class="btn btn-xs" type="button" style="padding:5px" data-bind="click: $parent.showModalRooms">
+                                    <div class="glyphicon glyphicon-bed"></div>
+                                </button>
+                                <button class="btn btn-xs" type="button" style="padding:5px" data-bind="click: $parent.showModalEditHotel">
+                                    <div class="glyphicon glyphicon-pencil"></div>
+                                </button>
+                                <button class="btn btn-xs" type="button" style="padding:5px" data-bind="click: $parent.showModalDeleteHotel">
+                                    <div class="glyphicon glyphicon-remove"></div>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel-body" style="padding-top:10px;">
+                        <div class="col-md-4">
+                            <div data-bind="if: HotelPhotos.length>0">
+                                <div class="carousel slide" data-ride="carousel">
+                                    <div class="carousel-inner" role="listbox" data-bind="foreach: HotelPhotos">
+                                        <div data-bind="if: $index()===0" class="item active">
+                                            <img data-bind="attr: {src:$data.PhotoLink}" class="img-rounded img-responsive" />
+                                        </div>
+                                        <div data-bind="if: $index()>0" class="item">
+                                            <img data-bind="attr: {src:$data.PhotoLink}" class="img-rounded img-responsive" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div data-bind="if: HotelPhotos.length===0">
+                                <img src="../../static/Content/img/default.png" class="img-rounded img-responsive" />
+                            </div>
+                        </div>
+                        <div class="col-md-8">
+                            <div>
+                                <span class="glyphicon glyphicon-map-marker"></span> <b>Address: </b>
+                                <span data-bind="text: Address"></span>
+                            </div>
+                            <div>
+                                <span class="glyphicon glyphicon-cutlery"></span> <b>Food: </b>
+                                <span data-bind="text: FoodType"></span>
+                                ($<span data-bind="text: FoodPrice"></span>)
+                            </div>
+                            <div data-bind="if: Facilities.length>0">
+                                <span class="glyphicon glyphicon-cog"></span> <b>Facilities:</b>
+                                <span data-bind="foreach: Facilities">
+                                    <span data-bind="text: $data"></span>;
+                                </span>
+                            </div>
+                            <div>
+                                <span class="glyphicon glyphicon-info-sign"></span> <b>Description: </b>
+                                <span data-bind="text: Description"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row" data-bind="visible: pageCount()>1">
+                <div class="col-sm-5">
+                    <div class="dataTables_info" role="status" aria-live="polite">
+                        Showing <span data-bind="text: indexOfFirst"></span> to <span data-bind="text: indexOfLast"></span> of <span data-bind="text: dataCount"></span> entries
+                    </div>
+                </div>
+                <div class="col-sm-7">
+                    <ul class="pagination">
+                        <li class="page-item">
+                            <a class="page-link" data-bind="click: previousPage, css: {'disabled': pageIndex()<=0}">Previous</a>
+                        </li>
+                    </ul>
+                    <ul class="pagination" data-bind="foreach: allPages">
+                        <li class="page-item" data-bind="css: { active: $data.pageNumber == ($parent.pageIndex()+1) }">
+                            <a href="#" class="page-link" data-bind="text: $data.pageNumber, click: function() { $parent.moveToPage($data.pageNumber-1); }"></a>
+                        </li>
+                    </ul>
+                    <ul class="pagination">
+                        <li class="page-item">
+                            <a class="page-link" data-bind="click: nextPage, css: {'disabled': pageIndex() >= pageCount()-1}">Next</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="../../static/Scripts/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="../../static/Scripts/bootstrap.js"></script>
+<script type="text/javascript" src="../../static/Scripts/select2.js"></script>>
+<script type="text/javascript" src="../../static/Scripts/knockout-3.1.0.js"></script>
+<script type="text/javascript" src="../../static/Scripts/knockout.validation.min.js"></script>
+<script type="text/javascript" src="../../static/Scripts/Hotels/Index.js"></script>

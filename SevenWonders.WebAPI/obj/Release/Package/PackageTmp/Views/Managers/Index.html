@@ -1,0 +1,104 @@
+﻿<link type="text/css" rel="stylesheet" href="../../static/Content/Managers/Index.css" />
+<link type="text/css" rel="stylesheet" href="../../static/Content/select2.css" />
+
+<div class="col-md-10 col-md-offset-1">
+	<h2 class="text-center">Managers</h2>
+	<br />
+	<div>
+		<button class='btn btn-warning middle-button' onclick='addManager()' id="addManager"> Add manager </button>
+	</div>
+	<br />
+
+    <!-- Add-Edit manager modal-->
+	<div class="modal fade" id="editManagerModal" tabindex="-1" role="dialog">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h4 class="modal-title text-center">Manager</h4>
+				</div>
+				<div class="modal-body">
+					<div class="form-horizontal" align="center">
+						<input type="hidden" id="id">
+                        <div class="form-group">
+                            <label class="control-label col-md-4"> First name: </label>
+                            <div class="col-md-6">
+                                <input type="text" class="form-control" data-bind="value: FirstName" placeholder="Enter first name">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-md-4">Last name:</label>
+                            <div class="col-md-6">
+                                <input type="text" class="form-control" data-bind="value: LastName" placeholder="Enter last name">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-md-4">Date of birth:</label>
+                            <div class="col-md-6">
+                                <input type="date" class="form-control" name="DateOfBirth" data-bind="value: DateOfBirth" placeholder="Enter date of birth">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-md-4">Phone number:</label>
+                            <div class="col-md-6">
+                                <input type="text" class="form-control" data-bind="value: PhoneNumber" placeholder="Enter phone number">
+                            </div>
+                        </div>
+                        <div class="form-group">                          
+                            <label class="control-label col-md-4">Email:</label>
+                            <div class="col-md-6">
+                                <input type="email" class="form-control" data-bind="value: Email" placeholder="Enter email">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-md-4">Password:</label>
+                            <div class="col-md-6">
+                                <input type="password" class="form-control" data-bind="value: Password" placeholder="Enter password">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-md-4">Repeat password:</label>
+                            <div class="col-md-6">
+                                <input type="password" class="form-control" data-bind="value: PasswordConfirmation" placeholder="Repeat password">
+                            </div>
+                        </div>
+						<div class="form-group">
+							<label class="control-label col-md-4">Countries:</label>					
+                            <div class="col-md-6">
+                                <select class="form-control" id="countries" multiple></select>
+                            </div>
+						</div>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<input type="submit" value="Save" data-bind="click: saveEditing" class="btn btn-warning middle-button"/>
+					<button type="button" class="btn middle-button" data-dismiss="modal">Cancel</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<table class="table table-striped table-bordered" id="managersTable" cellspacing="0">
+		<thead>
+			<tr>
+				<th>First Name</th>
+				<th>Last Name</th>
+				<th>Phone</th>
+				<th>Email</th>
+				<th>Date Of Birth</th>
+				<th>Status</th>
+				<th></th>
+				<th></th>
+			</tr>
+		</thead>
+	</table>
+</div>
+<script type="text/javascript" src="../../static/Scripts/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="../../static/Scripts/bootstrap.js"></script>
+<script type="text/javascript" src="../../static/Scripts/select2.js"></script>
+<script type="text/javascript" src="../../static/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script type="text/javascript" src="../../static/Scripts/knockout-3.1.0.js"></script>
+<script type="text/javascript" src="../../static/Scripts/knockout.validation.min.js"></script>
+<script type="text/javascript" src="../../static/Scripts/Managers/Index.js"></script>
+<script type="text/javascript" src="../../static/Scripts/Statistic.js"></script>
+<script type="text/javascript" src="../../static/Scripts/Table.js"></script>

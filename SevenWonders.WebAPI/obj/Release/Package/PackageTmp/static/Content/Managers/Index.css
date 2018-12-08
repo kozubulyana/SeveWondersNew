@@ -1,0 +1,26 @@
+﻿#managersTable_filter {
+	float: right;
+}
+
+.input-sm {
+	margin-left: 5px;
+	margin-right: 0px;
+}
+
+.select2-search__field {
+	width: 120px !important;
+}
+
+.select2-search {
+	padding-left: 7px;
+	padding-top: 1px;
+}
+
+.validationMessage {
+	color: #cc0000;
+	text-align: center;
+}
+
+.select2-container {
+	max-width: 270px;
+}

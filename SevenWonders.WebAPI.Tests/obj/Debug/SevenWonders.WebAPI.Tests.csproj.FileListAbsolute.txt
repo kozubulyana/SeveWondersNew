@@ -1,0 +1,330 @@
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\ApplicationInsights.config
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csc.exe
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csc.exe.config
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csc.rsp
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csi.exe
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csi.rsp
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.AppContext.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\vbc.exe
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\vbc.exe.config
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\vbc.rsp
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\static\Scripts\Customers\Index.js
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.Tests.dll.config
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.Tests.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.Tests.pdb
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Http.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Razor.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\EntityFramework.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Swashbuckle.Core.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Owin.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\MongoDB.Bson.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\log4net.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.pdb
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.dll.config
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Http.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Razor.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\EntityFramework.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\MongoDB.Bson.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\log4net.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\obj\Debug\SevenWonders.WebAPI.Tests.csprojResolveAssemblyReference.cache
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\obj\Debug\SevenWonders.WebAPI.Tests.dll
+D:\Web api\SevenWonders\SevenWonders.WebAPI.Tests\obj\Debug\SevenWonders.WebAPI.Tests.pdb
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\obj\Debug\SevenWonders.WebAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\obj\Debug\SevenWonders.WebAPI.Tests.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\obj\Debug\SevenWonders.WebAPI.Tests.pdb
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csc.exe.config
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csc.rsp
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csi.exe
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csi.rsp
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\vbc.exe.config
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\vbc.rsp
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\static\Scripts\Customers\Index.js
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.Tests.dll.config
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.Tests.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.Tests.pdb
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Castle.Core.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Moq.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Swashbuckle.Core.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Owin.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\MongoDB.Bson.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\log4net.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.pdb
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.dll.config
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Castle.Core.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Moq.pdb
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Moq.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\MongoDB.Bson.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\log4net.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ulyana.kozub\Desktop\SevenWonders\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csc.exe.config
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csc.rsp
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csi.exe
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csi.rsp
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\vbc.exe.config
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\vbc.rsp
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\static\Scripts\Customers\Index.js
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.Tests.dll.config
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.Tests.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.Tests.pdb
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Castle.Core.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Moq.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Swashbuckle.Core.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Owin.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\MongoDB.Bson.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\log4net.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.pdb
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.dll.config
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Castle.Core.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Moq.pdb
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Moq.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\MongoDB.Bson.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\log4net.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\obj\Debug\SevenWonders.WebAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\obj\Debug\SevenWonders.WebAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\obj\Debug\SevenWonders.WebAPI.Tests.dll
+C:\Users\ulyana.kozub\Desktop\WebApiProject\SevenWonders\SevenWonders.WebAPI.Tests\obj\Debug\SevenWonders.WebAPI.Tests.pdb
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\ApplicationInsights.config
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csc.exe
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csc.exe.config
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csc.rsp
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csi.exe
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\csi.rsp
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.AppContext.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\vbc.exe
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\vbc.exe.config
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\vbc.rsp
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\static\Scripts\Customers\Index.js
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.Tests.dll.config
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.Tests.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.Tests.pdb
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Castle.Core.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Moq.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Helpers.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Http.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Mvc.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Razor.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\EntityFramework.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Optimization.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Swashbuckle.Core.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Owin.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\MongoDB.Bson.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\log4net.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.pdb
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\SevenWonders.WebAPI.dll.config
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Castle.Core.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Moq.pdb
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Moq.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Helpers.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Http.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Mvc.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Razor.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\EntityFramework.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\System.Web.Optimization.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\MongoDB.Bson.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\log4net.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\SevenWonders\SevenWonders.WebAPI.Tests\obj\Debug\SevenWonders.WebAPI.Tests.csprojResolveAssemblyReference.cache
+E:\SevenWonders\SevenWonders.WebAPI.Tests\obj\Debug\SevenWonders.WebAPI.Tests.dll
+E:\SevenWonders\SevenWonders.WebAPI.Tests\obj\Debug\SevenWonders.WebAPI.Tests.pdb

@@ -1,0 +1,201 @@
+﻿<link type="text/css" rel="stylesheet" href="../../static/Content/Hotels/Rooms.css" />
+<link type="text/css" rel="stylesheet" href="../../static/Content/select2.css" />
+
+<div class="col-xs-12 col-sm-10 col-md-10 col-lg-10 col-sm-offset-1 col-md-offset-1 col-lg-offset-1">
+    <h3 class="text-center">Rooms</h3>
+    <br />
+    <!-- Add-Edit room modal-->
+    <div class="modal fade" id="roomModifyViewModel" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title text-center">Room</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="form-horizontal" align="center">
+                        <hidden data-bind="value: Id"></hidden>
+                        <div class="form-group">
+                            <label class="control-label col-md-4">Country:</label>
+                            <div class="col-md-6">
+                                <select class="form-control" data-bind="options: Hotels, optionsText: 'Name', optionsValue: 'Id', value: HotelId, optionsCaption: 'Choose hotel'"></select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-md-4">Room Type:</label>
+                            <div class="col-md-6">
+                                <select class="form-control" id="roomTypes"></select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-md-4">Count of room:</label>
+                            <div class="col-md-6">
+                                <input type="number" step="1" min="1" max="1000" class="form-control" data-bind="value: CountOfRooms" placeholder="Enter count of rooms">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-md-4">Max people:</label>
+                            <div class="col-md-6">
+                                <input type="number" step="1" min="1" max="1000" class="form-control" data-bind="value: MaxPeople" placeholder="Enter max people">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-md-4">Price ($):</label>
+                            <div class="col-md-6">
+                                <input type="number" step="0.01" min="0.01" max="1000" class="form-control" data-bind="value: Price" placeholder="Enter price">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-md-4">Equipments:</label>
+                            <div class="col-md-6" id="equipments-container">
+                                <select class="form-control" id="equipments" multiple ></select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-md-4">Window view:</label>
+                            <div class="col-md-6">
+                                <input type="text" class="form-control" data-bind="value: WindowView" placeholder="Enter window view">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <input type="file" class="multiple" id="loadImages" align="center" multiple accept="image/*" />
+                            <div class="col-md-offset-2 col-md-8" id="photos" data-bind="foreach: RoomPhotos">
+                                <div style="width:170px; margin-top:1%; margin-right:1%;" class="pull-left img-wrap">
+                                    <span class="close" data-bind="click: $parent.removePhoto">&times;</span>
+                                    <img class="img-rounded img-responsive" data-bind="attr: {src:$data.PhotoLink}" style="height: 105px;">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-warning middle-button" data-bind="click: saveChanges">Save</button>
+                    <button type="button" class="btn middle-button" data-dismiss="modal">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row" id="roomsTable">
+        <!-- Delete room modal -->
+        <div class="modal fade" id="deleteRoomModal" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center">Room</h4>
+                    </div>
+                    <div class="modal-body">
+                        <h5 class="text-center">Are you sure you want to delete this room?</h5>
+                    </div>
+                    <div class="modal-footer">
+                        <hidden data-bind="value: idOfDeletedRoom"></hidden>
+                        <button type="button" class="btn btn-warning middle-button" data-bind="click: deleteRoom">Delete</button>
+                        <button type="button" class="btn middle-button" data-dismiss="modal">Cancel</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="row" style="margin-bottom:10px;">
+                <button class="btn btn-warning middle-button" type="button" data-bind="click: showModalAddRoom">Add room</button>
+            </div>
+            <div class="row" data-bind="foreach: rooms">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <div class="row">
+                            <div class="panelHeadingItem col-md-6">
+                                <span data-bind="text: RoomType"></span>
+                            </div>
+                            <div class="panelHeadingItem pull-right" style="padding-right:15px;">
+                                <button class="btn btn-xs" type="button" style="padding:5px" data-bind="click: $parent.showModalEditRoom">
+                                    <div class="glyphicon glyphicon-pencil"></div>
+                                </button>
+                                <button class="btn btn-xs" type="button" style="padding:5px" data-bind="click: $parent.showModalDeleteRoom">
+                                    <div class="glyphicon glyphicon-remove"></div>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel-body" style="padding-top:10px;">
+                        <div class="col-md-3">
+                            <div data-bind="if: RoomPhotos.length>0">
+                                <div class="carousel slide" data-ride="carousel">
+                                    <div class="carousel-inner" role="listbox" data-bind="foreach: RoomPhotos">
+                                        <div data-bind="if: $index()===0" class="item active">
+                                            <img data-bind="attr: {src:$data.PhotoLink}" class="img-rounded img-responsive" />
+                                        </div>
+                                        <div data-bind="if: $index()>0" class="item">
+                                            <img data-bind="attr: {src:$data.PhotoLink}" class="img-rounded img-responsive" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div data-bind="if: RoomPhotos.length===0">
+                                <img src="../../static/Content/img/default.png" class="img-responsive" />
+                            </div>
+                        </div>
+                        <div class="col-md-9">
+                            <div>
+                                <span class="glyphicon glyphicon-user"></span> <b>Max number of people: </b>
+                                <span data-bind="text: MaxPeople"></span>
+                            </div>
+
+                            <div data-bind="if: WindowView">
+                                <span class="glyphicon glyphicon-picture"></span> <b>View: </b>
+                                <span data-bind="text: WindowView"></span>
+                            </div>
+                            <div>
+                                <span class="glyphicon glyphicon-usd"></span> <b>Price: </b>
+                                <span data-bind="text: Price"></span>$
+                            </div>
+
+                            <div data-bind="if: Equipments.length>0">
+                                <span class="glyphicon glyphicon-cog"></span> <b>Equipments:</b>
+                                <span data-bind="foreach: Equipments">
+                                    <span data-bind="text: $data"></span>;
+                                </span>
+                            </div>
+                            <br />
+                            <div>
+                                <span class="glyphicon glyphicon-usd"></span> <b>Count of rooms: </b>
+                                <span data-bind="text: CountOfRooms"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row" data-bind="visible: pageCount()>1">
+                <div class="col-sm-5">
+                    <div class="dataTables_info" role="status" aria-live="polite">
+                        Showing <span data-bind="text: indexOfFirst"></span> to <span data-bind="text: indexOfLast"></span> of <span data-bind="text: dataCount"></span> entries
+                    </div>
+                </div>
+                <div class="col-sm-7">
+                    <ul class="pagination">
+                        <li class="page-item">
+                            <a class="page-link" data-bind="click: previousPage, css: {'disabled': pageIndex()<=0}">Previous</a>
+                        </li>
+                    </ul>
+                    <ul class="pagination" data-bind="foreach: allPages">
+                        <li class="page-item" data-bind="css: { active: $data.pageNumber == ($parent.pageIndex()+1) }">
+                            <a href="#" class="page-link" data-bind="text: $data.pageNumber, click: function() { $parent.moveToPage($data.pageNumber-1); }"></a>
+                        </li>
+                    </ul>
+                    <ul class="pagination">
+                        <li class="page-item">
+                            <a class="page-link" data-bind="click: nextPage, css: {'disabled': pageIndex() >= pageCount()-1}">Next</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="../../static/Scripts/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="../../static/Scripts/bootstrap.js"></script>
+<script type="text/javascript" src="../../static/Scripts/select2.js"></script>
+<script type="text/javascript" src="../../static/Scripts/knockout-3.1.0.js"></script>
+<script type="text/javascript" src="../../static/Scripts/knockout.validation.min.js"></script>
+<script type="text/javascript" src="../../static/Scripts/Hotels/Rooms.js"></script>
