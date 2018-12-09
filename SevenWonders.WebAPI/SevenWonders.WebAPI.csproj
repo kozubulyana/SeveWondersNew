@@ -397,9 +397,9 @@
     <Content Include="static\Scripts\Airports\Index.js" />
     <Content Include="static\Scripts\bootstrap.js" />
     <Content Include="static\Scripts\bootstrap.min.js" />
-    <EmbeddedResource Include="static\Scripts\Customers\Index.js">
+    <Content Include="static\Scripts\Customers\Index.js">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
+    </Content>
     <Content Include="static\Scripts\Cities\Index.js" />
     <Content Include="static\Scripts\Countries\Index.js" />
     <Content Include="static\Scripts\CustomerCabinet\Index.js" />
